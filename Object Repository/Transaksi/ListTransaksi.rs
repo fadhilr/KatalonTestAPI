@@ -15,7 +15,7 @@
       <matchCondition>equals</matchCondition>
       <name>Authorization</name>
       <type>Main</type>
-      <value>Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOlwvXC8xMjcuMC4wLjE6ODAwMFwvYXBpXC91c2Vyc1wvbG9naW4iLCJpYXQiOjE1ODQ2NjQyMzAsImV4cCI6MTU4NDY2NzgzMCwibmJmIjoxNTg0NjY0MjMwLCJqdGkiOiJnbnJ0c2JpWEpGTVR5VjFXIiwic3ViIjoxLCJwcnYiOiI4N2UwYWYxZWY5ZmQxNTgxMmZkZWM5NzE1M2ExNGUwYjA0NzU0NmFhIn0.FhgV2lOld-Dsvt7OY2H7gqbpxplUX5mS31Dd4xK5Oy0</value>
+      <value>Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOlwvXC8xMjcuMC4wLjE6ODAwMFwvYXBpXC91c2Vyc1wvbG9naW4iLCJpYXQiOjE1ODQ2Njg4ODUsImV4cCI6MTU4NDY3MjQ4NSwibmJmIjoxNTg0NjY4ODg1LCJqdGkiOiJTYVJXRDVuYVEzczZYMjQ2Iiwic3ViIjoxLCJwcnYiOiI4N2UwYWYxZWY5ZmQxNTgxMmZkZWM5NzE1M2ExNGUwYjA0NzU0NmFhIn0.YPeZ0FwKMqs-98tne7gCVVuFAkatlu0r-4FFxabVGGE</value>
    </httpHeaderProperties>
    <httpHeaderProperties>
       <isSelected>true</isSelected>
